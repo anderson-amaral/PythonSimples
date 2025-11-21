@@ -7,4 +7,5 @@ r = int(a) * int(b)
 
 print(f"{a} + {b} = {r}")
 
-print("\n*** Prograna encerrado")
+print("\n*** Prograna encerrado ***")
+print("\n*** Commitando o exemplo ***")
