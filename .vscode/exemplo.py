@@ -6,3 +6,5 @@ b = input("Segundo número: ")
 r = int(a) * int(b)
 
 print(f"{a} + {b} = {r}")
+
+print("\n*** Prograna encerrado")
